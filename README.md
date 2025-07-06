@@ -51,9 +51,6 @@ logistics_dgm_system/
 ├── infra/
 ├── config/
 └── tests/
-
-text
-
 ---
 
 ## 🏁 Quick Start
