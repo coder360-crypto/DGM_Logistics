@@ -19,40 +19,6 @@ The Darwin Gödel Machine Logistics System is an advanced AI platform that autom
 - **Modular Python Architecture:** Easily extensible and production-ready.
 
 ---
-
-## 📁 Directory Structure
-
-logistics_dgm_system/
-│
-├── main.py
-├── requirements.txt
-├── dgm_core/
-│ ├── archive_manager.py
-│ ├── selection_engine.py
-│ └── ...
-├── agent_archive/
-│ ├── agent_v1/
-│ │ ├── agent.py
-│ │ └── tools/
-│ └── seed_agents/
-├── logistics_benchmarks/
-│ ├── fleet_maintenance.py
-│ ├── datasets/
-│ │ └── real_data/
-│ │ ├── fleet_maintenance_data.csv
-│ │ └── ...
-├── monitoring/
-├── operator_feedback/
-├── data_ingestion/
-├── orchestration/
-├── api/
-├── models/
-├── visualization/
-├── infra/
-├── config/
-└── tests/
----
-
 ## 🏁 Quick Start
 
 1. **Clone the repo & set up the environment:**
